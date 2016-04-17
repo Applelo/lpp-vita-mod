@@ -10,6 +10,6 @@ Works thanks to :
 
 ## Credits
 
-**Rinnegatamante** for his authorization
+**Rinnegatamante** for his authorization to use his code
 
-All dev involved Vita Scene
+All dev involved Vita Scene : Yifan Lu, The FloW, SMOKE...
