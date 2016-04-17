@@ -11,4 +11,5 @@ Works thanks to :
 ## Credits
 
 **Rinnegatamante** for his authorization
+
 All dev involved Vita Scene
