@@ -1,7 +1,7 @@
 # lpp-vita-mod
 Lua Player Plus MOD for PSVITA
 
-All Lua Player Plus Vita functions are detailed in the [Wiki] (href "https://github.com/Applelo/lpp-vita-mod/wiki")
+All Lua Player Plus Vita functions are detailed in the [Wiki] (https://github.com/Applelo/lpp-vita-mod/wiki)
 
 Works thanks to :
 * [Lua Player Plus Source](https://github.com/Rinnegatamante/lpp-vita) by **Rinnegatamante**
