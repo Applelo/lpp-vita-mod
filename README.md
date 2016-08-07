@@ -1,6 +1,8 @@
 # lpp-vita-mod
 Lua Player Plus MOD for PSVITA
 
+Doesn't work with HENKaku, go to see the new amazing [LPP Vita](https://github.com/Rinnegatamante/lpp-vita) :) 
+
 All Lua Player Plus Vita functions are detailed in the [Wiki] (https://github.com/Applelo/lpp-vita-mod/wiki)
 
 Works thanks to :
